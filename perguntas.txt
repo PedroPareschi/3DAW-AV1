@@ -1,0 +1,3 @@
+id;pergunta;pontos;dificuldade
+1;Qual é a cor do cavalo branco de Napoleâo?;20;Fácil
+2;Quanto é 2 + 2?;;Fácil
